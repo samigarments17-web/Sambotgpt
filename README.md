@@ -1,1 +1,1 @@
-# Sambotgpt
+# Samigpt
